@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: red;
+    font-size: 24px;
+    font-style: oblique;
+    font-style: bold
+    ;
+
+}
+
+h2{
+font-size: 20px;
+color: #0000ff ;
+font-style: bold;
+;
+
+}
+
+h3{
+    font-size: 16px;
+    color: teal;
+    font-style: bold;
+}
+
+p{
+    color: lightcoral ;
+    font-style: bold;
+
+}
+
+a{
+    color: #8A2BE2;
+    text-decoration: none;
+}
+
+header {
+    background-image: url("./img/game.controller.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vw   ;
+        background-position: center;
+    
+   }
+
+   article{
+    border-color: gold;
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 20%;
+    border-left-style: solid;
+    border-left-width: 10px;
+   }
